@@ -1,30 +1,30 @@
 [submodule "lib/chibios"]
 	path = lib/chibios
-	url = git@github.com:qmk/ChibiOS.git
+	url = https://github.com/qmk/ChibiOS.git
 	branch = master
 [submodule "lib/chibios-contrib"]
 	path = lib/chibios-contrib
-	url = git@github.com:qmk/ChibiOS-Contrib.git
+	url = https://github.com/qmk/ChibiOS-Contrib.git
 	branch = sn32_develop
 [submodule "lib/googletest"]
 	path = lib/googletest
-	url = git@github.com:qmk/googletest.git
+	url = https://github.com/qmk/googletest.git
 [submodule "lib/lufa"]
 	path = lib/lufa
-	url = git@github.com:qmk/lufa.git
+	url = https://github.com/qmk/lufa.git
 [submodule "lib/vusb"]
 	path = lib/vusb
-	url = git@github.com:qmk/v-usb.git
+	url = https://github.com/qmk/v-usb.git
 [submodule "lib/printf"]
 	path = lib/printf
-	url = git@github.com:qmk/printf.git
+	url = https://github.com/qmk/printf.git
 [submodule "lib/pico-sdk"]
 	path = lib/pico-sdk
-	url = git@github.com:qmk/pico-sdk.git
+	url = https://github.com/qmk/pico-sdk.git
 [submodule "lib/lvgl"]
 	path = lib/lvgl
-	url = git@github.com:qmk/lvgl.git
+	url = https://github.com/qmk/lvgl.git
 	branch = release/v8.2
 [submodule "lib/ChibiOS"]
 	path = lib/ChibiOS
-	url = git@github.com:qmk/ChibiOS.git
+	url = https://github.com/qmk/ChibiOS.git
